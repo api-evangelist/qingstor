@@ -64,5 +64,20 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-QingStor is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://qingcloud.com/
+QingStor, operating under the QingCloud brand, provides enterprise‑grade cloud computing, AI infrastructure, and storage solutions. It offers public, private, and hybrid cloud services, including elastic compute, bare‑metal, GPU instances, container platforms, and a suite of data services such as databases, object storage, and big‑data analytics. The company serves a wide range of industries with AI‑driven solutions and supports developers through extensive documentation and APIs.
+
+**Areas:** Cloud · Infrastructure · AI · Storage · Enterprise
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://qingcloud.com/)
+- [Pricing](https://qingcloud.com/pricing-regulation)
+- [Sign up](https://console.qingcloud.com/signup?redirect_uri=https%3A%2F%2Fwww.qingcloud.com)
+- [Security](https://docsv4.qingcloud.com/user_guide/security/waf/)
+- [Status](https://status.qingcloud.com/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/qingstor/](https://apis.io/providers/qingstor/).
